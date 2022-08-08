@@ -24,7 +24,7 @@ const DFGAIA: Project = {
     description: "A user-friendly dark forest plugin development library.",
     whatToDo: [
       {
-        content: "Porject Introduction",
+        content: "Project Introduction",
         url: "https://github.com/dfarchon/DF-GAIA"
       },
     
