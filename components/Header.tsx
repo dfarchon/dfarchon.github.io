@@ -17,18 +17,22 @@ type NavProps = {
 export function Header(props: NavProps) {
     // Collect current path for active links
     const { pathname } = useRouter();
-    const { connectWallet, isConnected, disconnectWallet, displayName } =
-        useWalletContext();
+    // const { connectWallet, isConnected, disconnectWallet, displayName } =
+    //     useWalletContext();
+
     const { onClick } = props;
+
+
+
 
     // All links
 
     return (
-        <div className="w-full flex justify-between py-2 bg-black px-4 bg-opacity-90">
+        <div className="w-full flex justify-between py-2 bg-dfarchon px-4 bg-opacity-90">
             {/* Main logo */}
             <div className={styles.header__logo}>
                 <Link href="/">
-                    <a><h2>Loot</h2></a>
+                    <a><h2>DF Archon</h2></a>
                 </Link>
             </div>
 
@@ -63,7 +67,11 @@ export function Header(props: NavProps) {
             <div className="self-center hidden sm:block">
                 <ul className="flex space-x-4 mr-auto">
                     <li className="bg-gray-700 px-4 py-1 rounded  ml-auto">
-                        {isConnected && (
+                        <button className={[styles.header__button, 'cursor-pointer  font-body'].join(' ')} onClick={() => { window.open('https://zkga.me') }} >
+                            into Dark Forest
+
+                        </button>
+                        {/* {isConnected && (
                             <span>
                                 {displayName} {" "}
                                 <a
@@ -71,14 +79,14 @@ export function Header(props: NavProps) {
                                     onClick={disconnectWallet}
                                 >
                                     [ disconnect ]
-                  </a>
+                                </a>
                             </span>
                         )}
                         {!isConnected && (
                             <button className={[styles.header__button, 'cursor-pointer  font-body'].join(' ')} onClick={connectWallet}>
                                 Connect to Lootverse
                             </button>
-                        )}
+                        )} */}
                     </li>
                 </ul>
             </div>

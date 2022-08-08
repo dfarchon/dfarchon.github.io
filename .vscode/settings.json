@@ -1,5 +1,7 @@
 {
     "eslint.format.enable": true,
-    "editor.formatOnSave": true,
+    "editor.formatOnSave": false,
     "eslint.lintTask.enable": true
+
+  
 }

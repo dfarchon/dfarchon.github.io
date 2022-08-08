@@ -1,6 +1,8 @@
 import SyntheticLoot from "@components/SyntheticLoot";
 import { Project } from "../types/interface";
 
+
+
 const loot: Project = {
   name: "Loot (for Adventurers)",
   description: "The original 8,000 OG Loot bags. ",

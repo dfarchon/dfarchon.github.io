@@ -6,15 +6,15 @@ export function Head(): ReactElement {
     return (
         <HTMLHead>
             {/* Primary Meta Tags */}
-            <title>Loot</title>
-            <meta name="title" content="Loot" />
+            <title>DF Archon</title>
+             {/* <meta name="title" content="Loot" />
             <meta
                 name="description"
                 content="Loot is randomized adventurer gear generated and stored on chain."
-            />
+            /> */}
 
             {/* OG + Faceook */}
-            <meta property="og:type" content="website" />
+            {/* <meta property="og:type" content="website" />
             <meta property="og:url" content="https://www.lootproject.com/" />
             <meta property="og:title" content="Loot" />
             <meta
@@ -23,15 +23,15 @@ export function Head(): ReactElement {
             />
             <meta property="og:image" content="https://lootproject.com/meta.png" />
 
-            {/* Twitter */}
-            <meta property="twitter:card" content="summary_large_image" />
+            // {/* Twitter */}
+            {/* <meta property="twitter:card" content="summary_large_image" />
             <meta property="twitter:url" content="https://www.lootproject.com/" />
             <meta property="twitter:title" content="Loot" />
             <meta
                 property="twitter:description"
                 content="Loot is randomized adventurer gear generated and stored on chain."
             />
-            <meta property="twitter:image" content="https://lootproject.com/meta.png" />
+            <meta property="twitter:image" content="https://lootproject.com/meta.png" /> */} 
 
             {/* Font */}
             <link rel="preconnect" href="https://fonts.googleapis.com" />

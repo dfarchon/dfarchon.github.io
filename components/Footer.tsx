@@ -7,7 +7,7 @@ export function Footer(): ReactElement {
             <p>
                 This website is community maintained and{" "}
                 <a
-                    href="https://github.com/lootproject/website"
+                    href="https://github.com/dfarchon/dfarchon.github.io"
                     target="_blank"
                     rel="noopener noreferrer"
                 >

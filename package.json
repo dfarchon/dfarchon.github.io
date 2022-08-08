@@ -21,6 +21,7 @@
     "sass": "^1.38.2",
     "tailwindcss": "^2.2.16",
     "usehooks-ts": "^1.0.4",
+    "video-react": "^0.15.0",
     "web3modal": "^1.9.4"
   },
   "devDependencies": {
