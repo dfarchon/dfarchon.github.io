@@ -27,9 +27,6 @@ const DFGAIA: Project = {
         content: "Project Introduction",
         url: "https://github.com/dfarchon/DF-GAIA"
       },
-    
-   
-  
     ],
    
 
