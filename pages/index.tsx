@@ -132,7 +132,7 @@ export default function Home(): ReactElement {
         </div> */}
 
         <div>
-          <a className="hover:text-gray-600" href="#dfgaia">DFGAIA</a>
+          <a className="hover:text-gray-600" href="#dfgaia">PROJECT</a>
         </div>
 
        

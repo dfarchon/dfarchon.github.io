@@ -36,8 +36,21 @@ const DFGAIA: Project = {
     image: "/dfgaia.png"
 };
 
+const DFARTEMIS: Project ={
+  name: "DF-ARTEMIS",
+  description: "Planet-targeted bounty mercenary system for Dark Forest.",
+    whatToDo: [
+      {
+        content: "Project Introduction",
+        url: "https://github.com/dfarchon/DF-ARTEMIS"
+      },
+    ],
+    image: "/dfartemis.png"
+
+};
 
 export {
-    DFGAIA
+    DFGAIA,
+    DFARTEMIS
   };
   

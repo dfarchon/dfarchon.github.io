@@ -1,5 +1,6 @@
 import {
-    DFGAIA
+    DFGAIA,
+    DFARTEMIS
 } from "./darkForestProjects";
 
 
@@ -10,7 +11,9 @@ export const myProject = [
         name : "",
         description :"",
         project: [
-            DFGAIA
+            DFGAIA,
+            DFARTEMIS
+
         ]
     }
 ];
