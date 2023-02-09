@@ -40,7 +40,7 @@ export default function Home(): ReactElement {
             <br/> */}
 
             <p className="text-xl text-gray-300 sm:text-2xl">
-              A development team focused on Dark Forest,
+              A development team focused on fully on-chain game,
             </p>
 
             <p className="text-xl text-gray-300 sm:text-2xl">
