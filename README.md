@@ -1,57 +1,29 @@
 # DF Archon Website
 
-Just fork from Loot Project, and make a few changes.
+DF Archon Website in Loot Style :-)
+
+latest update: 2023.3.6
 
 
 
+## about DF Archon
+
+Website: https://dfarchon.xyz/
+
+Twitter: https://twitter.com/DfArchon
+
+Discord: https://discord.com/invite/vXCJKfT6a2
+
+GitHub: https://github.com/dfarchon
 
 
 
-# Loot
+## Some Projects
 
-## Community-operated [website](https://www.lootproject.com/) for the Loot project guided by the Loot Alliance.
-<hr>
+DF GAIA :  https://github.com/dfarchon/DF-GAIA
 
-### What is the Loot Alliance?
-The Loot Alliance is a collective of builders, designers, and geeks working together to channel the voice of the wider Lootverse community.
+DF ARTEMIS: https://github.com/dfarchon/DF-ARTEMIS
 
-Our goal is to shepherd the ongoing Lootverse in the direction of positivity, inclusiveness and fun in order to create a strong foundation for players and builders.
+DF APOLLO: https://www.youtube.com/@dfarchon1759 latest video demo
 
-Read here for more: https://genesisproject.notion.site/The-Loot-Alliance-3baf82e7bd06432da21b3a70906ce305
-<hr>
-
-## Propose PR for new Project
-
-All new projects need to first submit a PR adding their project to the resources page.
-
-- Add project into `/utils/lists.ts`
-
-Principles for what makes it to the "Main Page" vs. on the "Resources Page”
-
-### Objective principles
-- Has website
-- Has shipped code
-- Isn't a rug
-- Isn't deeply offensive
-- Has active usage
-- Has an active team/builders
-
-### Subjective and decentralized principles
-- Loot Alliance voting mechanism
-- Community input
-- Lootwatcher votes
-- LootProject retweets as tacit votes
-- Canon
-
-<hr>
-
-### Run locally
-
-```bash
-# Install dependencies
-yarn
-
-# Run
-
-yarn dev
-```
+more projects will coming soon ...

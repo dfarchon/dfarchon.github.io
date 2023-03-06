@@ -21,7 +21,7 @@ import { Project } from "../types/interface";
 
 const DFGAIA: Project = {
     name: "DF-GAIA",
-    description: "A user-friendly dark forest plugin development library.",
+    description: "A user-friendly Dark Forest plugin development library.",
     whatToDo: [
       {
         content: "Project Introduction",
@@ -49,8 +49,22 @@ const DFARTEMIS: Project ={
 
 };
 
+const DFAPOLLO: Project ={
+  name: "DF-APOLLO",
+  description: "Automated assisted operating System for Dark Forest.",
+    whatToDo: [
+      {
+        content: "Demo Video",
+        url: "https://www.youtube.com/@dfarchon1759"
+      },
+    ],
+    image: "/dfapollo.png"
+
+};
+
 export {
     DFGAIA,
-    DFARTEMIS
+    DFARTEMIS,
+    DFAPOLLO
   };
   
