@@ -55,7 +55,7 @@ const DFAPOLLO: Project ={
     whatToDo: [
       {
         content: "Demo Video",
-        url: "https://www.youtube.com/@dfarchon1759"
+        url: "https://www.youtube.com/watch?v=Edm1SR8mIl8&t=2s"
       },
     ],
     image: "/dfapollo.png"
