@@ -63,7 +63,7 @@ export default function Home(): ReactElement {
                 <img
                   src="favicon.ico"
                   className="center-logo"
-                  onClick={() => { window.open("https://gitcoin.co/grants/4263/using-zk-for-game-optimization-in-dark-forest"); }}
+                  onClick={() => { window.open("http://dfares.xyz/"); }}
                 />
               </div>
             </div>

@@ -26,7 +26,7 @@ const cryptoodleLoot: Project = {
         url: "https://twitter.com/cryptoodles"
     },
     discord: {
-        url: "https://discord.com/invite/g9SnvzdFs2"
+        url: "https://discord.gg/f3FrFA4T25"
     },
     opensea: {
         url: "https://opensea.io/collection/toodle-loot-bag"

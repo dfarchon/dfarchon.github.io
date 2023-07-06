@@ -67,8 +67,8 @@ export function Header(props: NavProps) {
             <div className="self-center hidden sm:block">
                 <ul className="flex space-x-4 mr-auto">
                     <li className="bg-gray-700 px-4 py-1 rounded  ml-auto">
-                        <button className={[styles.header__button, 'cursor-pointer  font-body'].join(' ')} onClick={() => { window.open('https://zkga.me') }} >
-                            into Dark Forest
+                        <button className={[styles.header__button, 'cursor-pointer  font-body'].join(' ')} onClick={() => { window.open('https://dfares.xyz') }} >
+                            into DF ARES
 
                         </button>
                         {/* {isConnected && (

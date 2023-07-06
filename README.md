@@ -12,7 +12,7 @@ Website: https://dfarchon.xyz/
 
 Twitter: https://twitter.com/DfArchon
 
-Discord: https://discord.com/invite/vXCJKfT6a2
+Discord: https://discord.gg/f3FrFA4T25
 
 GitHub: https://github.com/dfarchon
 
