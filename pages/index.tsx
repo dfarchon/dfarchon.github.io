@@ -100,7 +100,7 @@ export default function Home(): ReactElement {
                 </a>
 
                 <a
-                  href="https://discord.com/invite/vXCJKfT6a2"
+                  href="https://discord.com/invite/f3FrFA4T25"
                   className="self-center p-3 bg-black border border-gray-800 rounded-xl hover:bg-blue-400"
                   target="_blank"
                 >
